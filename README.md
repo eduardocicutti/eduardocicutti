@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Eduardo!</h1>
-<h3 align="center">Currently studying Software Engineering. I'm always striving to learn everything I can, whether it's through reading books, watching documentaries, or studying community code.I'm just a beginner, so my profile's gonna go through a lot of changes, you can keep up with my progress here ;)</h3>
+<h3 align="center">Currently studying Software Engineering. I'm always striving to learn everything I can, whether it's through reading books, watching documentaries, or studying community code. I'm just a beginner, so my profile's gonna go through a lot of changes, you can keep up with my progress here ;)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edvxdev" alt="edvxdev" /></a> </p>
 
