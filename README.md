@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardocicutti" alt="eduardocicutti" /></a> </p>
 
-- 🌱 I’m currently improving **C#, C++, C and Java.**
+- 🌱 I’m currently improving **C# e .NET**
 
 - 📫 How to reach me **eduardocicutti@outlook.com**
 
