@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Science Computer at Universidade Federal do Espírito Santo, Brasil.<br>🌱 I’m currently learning .NET and C#<br>⚡ I'm a houston rockets fan
+🔭 I’m currently studying Science Computer at Universidade Federal do Espírito Santo, Brasil.<br>🌱 I’m currently learning .NET and C#<br>⚡ How to reach me? eduardocicutti@outlook.com
 
 
 ## 🌐 Socials:
@@ -8,7 +8,11 @@
 # 💻 Tech Stack:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eduardocicutti&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+- uses: eduardocicutti
+  with:
+    template: repository
+    user: lowlighter
+    repo: metrics
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eduardocicutti&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocicutti&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
