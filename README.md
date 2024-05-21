@@ -8,12 +8,24 @@
 # 💻 Tech Stack:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 # 📊 GitHub Stats:
-- uses: eduardocicutti
-  with:
-    template: repository
-    user: lowlighter
-    repo: metrics
-![](https://github-readme-streak-stats.herokuapp.com/?user=eduardocicutti&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardocicutti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=eduardocicutti&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/v3gjt1bzo6dqi1uj1avlov8f9">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=v3gjt1bzo6dqi1uj1avlov8f9&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/eduardocicutti/eduardocicutti/output/snake.svg" alt="Snake animation" />
+
+###
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocicutti&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
