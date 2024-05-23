@@ -1,4 +1,4 @@
-## 💫 About Me
+# 💫 About Me
 🔭 I’m currently studying Science Computer at Universidade Federal do Espírito Santo, Brasil.<br>🌱 I’m currently learning .NET and C#<br>⚡ How to reach me? eduardocicutti@outlook.com
 
 # 💻 Tech Stack:
