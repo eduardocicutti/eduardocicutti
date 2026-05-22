@@ -1,4 +1,4 @@
-# Hi, I'm Eduardo. 👋
+# Hi, I'm Eduardo.
  
 Computer Science student at **Universidade Federal do Espírito Santo (UFES)**, Brazil.
  
