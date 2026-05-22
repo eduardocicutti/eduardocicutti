@@ -23,7 +23,7 @@ I enjoy working across the stack, from low-level systems programming in C to bui
  
 ## Connect
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cicutti-a226b52a6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cicutti/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/e.cicutti/)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:eduardocicutti@outlook.com)
  
